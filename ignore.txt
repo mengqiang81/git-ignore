@@ -1,7 +1,5 @@
 ## .gitignore for Grails 1.2 and 1.3
 
-out/
-
 # .gitignore for maven 
 target/
 *.releaseBackup
@@ -46,6 +44,8 @@ target/
  
 # "temporary" build files
 target/
+out/
+build/
  
 # other
 *.iws
