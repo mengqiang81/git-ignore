@@ -31,6 +31,7 @@
 	/test/reports
 	/logs
 	*.log
+	*.log.*
  
 	# project release file
 	/*.war
