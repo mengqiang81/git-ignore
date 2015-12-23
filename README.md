@@ -100,6 +100,10 @@
 	## .gitignore for linux
 	.*
 	!.gitignore
+	!.gitattributes
+	!.editorconfig
+	!.eslintrc
+	!.travis.yml
 	*~
 	 
 	## .gitignore for windows
